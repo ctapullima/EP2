@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    margin: auto;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+#logo img {
+    height: 100px;
+}
+
+header {
+    display: flex;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.cuadro {
+    height: 90px;
+    line-height: 90px;
+    width: 130px;
+    text-align: center;
+
+}
+#contenedor {
+    display: flex;
+
+}
+
+.img1 img {
+    width: 1200px;
+}
