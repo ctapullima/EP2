@@ -14,6 +14,7 @@ body {
 	margin: auto;
 }
 
+/* header */
 #logo img {
 	height: 100px;
 }
@@ -21,16 +22,22 @@ body {
 header {
 	display: flex;
 	font-size: 15px;
-	font-family: "Roboto", sans-serif;
+	font-family: "Roboto", sans-seri;
+	font-weight: bold;
 }
 
 .cuadro {
-	height: 90px;
+	height: 50px;
 	line-height: 90px;
 	width: 130px;
 	text-align: center;
 }
 
+.icon-facebook2 {
+	color: blue;
+}
+
+/* contenedor */
 #contenedor {
 	display: flex;
 }
