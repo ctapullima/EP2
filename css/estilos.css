@@ -25,12 +25,15 @@ header {
 	font-family: "Roboto", sans-seri;
 	font-weight: bold;
 }
-	.titulo1 {	
+
+
+.titulo1 {
 	font-size: 20px;
 	padding-bottom: 10px;
-	padding-top: 15px;	
+	padding-top: 15px;
 	position: fixed;
 	left: 520px;
+
 
 }
 
@@ -40,6 +43,9 @@ header {
 	width: 130px;
 	text-align: center;
 }
+
+
+
 
 .icon-facebook2 {
 	color: blue;
@@ -59,8 +65,29 @@ header {
 }
 
 .cuadro2 {
+	background: rgb(55, 175, 211);
 	height: 90px;
 	line-height: 90px;
 	width: 120px;
 	text-align: center;
+	padding: 5px 89px 5px 89px;
+}
+
+/* #central. {
+	background: rgb(55, 175, 211);
+	padding-left: 10px;
+	font-size: 23px;
+	color: white;
+	font-weight: bold;
+	padding-bottom: 10px;
+	position: relative;
+	bottom: 54px;
+	right: 766px;
+	padding-top: 10px;
+} */
+/* muestra */
+.letras {
+	color: black;
+	font-size: 20px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
